@@ -1,10 +1,12 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
+import Bar from './components/Bar'
 </script>
 
 <template>
   <div>
     <HelloWorld msg=" hjy!!!!!!!!!!!" />
+    <Bar msg="Hello Bar" />
   </div>
 </template>
 
